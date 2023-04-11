@@ -8,13 +8,12 @@
 
 
 
-[def]: https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%to%My%20Profile&fontSize=90
+[def]: https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=My%20Profile&fontSize=90
 
 
-# 기본 정보
-  * 이름 : 배상일
-  * 출생 : 1993.01.11
+# Information
+  * Name : Bae Sang IL
+  * Birth : 1993.01.11
   * MBTI : ISTJ
-  * 혈액형 : O형
-  * 이메일 : tkddlf288@gmail.com
-  * 블로그 : https://github.com/BaeSang1/BaeSang
+  * E-mail : tkddlf288@gmail.com
+  * Link : https://github.com/BaeSang1/BaeSang
