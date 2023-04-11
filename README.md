@@ -18,4 +18,4 @@
   * Birth : 1993.01.11
   * MBTI : ISTJ
   * E-mail : tkddlf288@gmail.com
-  * Link : https://github.com/BaeSang1/BaeSang
+  * Link : https://github.com/BaeSang1
