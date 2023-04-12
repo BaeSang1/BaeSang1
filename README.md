@@ -1,11 +1,14 @@
 ![header][def]
-![ alt text ](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=Python)
-![ alt text ](https://img.shields.io/badge/Java-17.0.2-2C2255?style=for-the-badge&logo=Java)
-![ alt text ](https://img.shields.io/badge/Linux-5.12_rc7-FCC624?style=for-the-badge&logo=Linux)
-![ alt text ](https://img.shields.io/badge/R_Studio-4.1.0-276DC3?style=for-the-badge&logo=R_Studio)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=Hadoop)
 ![ alt text ](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=R_Studio)
-![ alt text ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=R_Studio)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 
 
