@@ -17,8 +17,8 @@
 
 
 # Information
-  * Name : Bae Sang IL
-  * Birth : 1993.01.11
-  * MBTI : ISTJ / ISTP
-  * E-mail : tkddlf288@gmail.com
-  * Link : https://github.com/BaeSang1
+  * **Name : Bae Sang IL**
+  * **Birth : 1993.01.11**
+  * **MBTI : ISTJ / ISTP**
+  * **E-mail : tkddlf288@gmail.com**
+  * **Link : https://github.com/BaeSang1**
