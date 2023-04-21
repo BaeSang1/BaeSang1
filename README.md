@@ -10,6 +10,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
+
+# BaekJoon Tier
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkddlf288)](https://solved.ac/tkddlf288)
 
 
