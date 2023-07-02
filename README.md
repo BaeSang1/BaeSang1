@@ -4,7 +4,7 @@
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![ alt text ](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=Hadoop)
-![ alt text ](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=R_Studio)
+![ alt text ](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
